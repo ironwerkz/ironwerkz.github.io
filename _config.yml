@@ -3,3 +3,13 @@ remote_theme: b2a3e8/jekyll-theme-console
 plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme plugin
+
+header_pages:
+  - index.md
+  - about.md
+
+style: dark # dark (default), light, hacker, or nord
+listen_for_clients_preferred_style: true # false (default) or true
+
+#footer: 'follow us on <a href="https://twitter.com/xxx">twitter</a>'
+disable_google_fonts: false

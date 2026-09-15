@@ -9,7 +9,7 @@ plugins:
 
 header_pages:
   - index.md
-  - previous_articles.md
+  - articles.md
   - about.md
 
 style: dark # dark (default), light, hacker, or nord

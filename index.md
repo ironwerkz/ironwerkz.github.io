@@ -10,10 +10,10 @@ the homepage will display the most current article by date
 
 {% assign latest = site.posts.first %}
 
-## Latest Post
+## Latest Article
 
 ### [{{ latest.title }}]({{ latest.url | relative_url }})
-<span class="post-meta">{{ latest.date | date: "%b %-d, %Y" }}</span>a
+<span class="articles-meta">{{ latest.date | date: "%b %-d, %Y" }}</span>a
 
 
-[See all Articles →](/posts/)
+[See all Articles →](/articles/)

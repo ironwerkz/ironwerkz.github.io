@@ -13,7 +13,7 @@ header_pages:
   - about.md
 
 style: dark # dark (default), light, hacker, or nord
-
+footer: '<style>img {max-width: 100%; height: auto}</style>'
 
 #Build Settings
 markdown: kramdown

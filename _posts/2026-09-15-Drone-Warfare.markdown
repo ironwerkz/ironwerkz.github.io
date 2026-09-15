@@ -6,7 +6,7 @@ categories:
 ---
 
 <figure>
-  <img src="{{ '/assets/images/drone-warfare/placeholder.jpg' | relative_url }}" alt="placeholder" style="max-width: 100%; height: auto;">
+  <img src="{{ '/assets/images/drone-warfare/placeholder.jpg' | relative_url }}" alt="placeholder">
   <figcaption>Fig 1. placeholder</figcaption>
 </figure>
 

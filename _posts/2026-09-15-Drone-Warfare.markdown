@@ -7,7 +7,7 @@ categories:
 
 <figure>
   <img src="{{ '/assets/images/drone-warfare/placeholder.jpg' | relative_url }}" alt="placeholder" style="max-width: 100%; height: auto;">
-  <figcaption>Fig 1. Typical drone flight pattern</figcaption>
+  <figcaption>Fig 1. placeholder</figcaption>
 </figure>
 
 # Intro Title

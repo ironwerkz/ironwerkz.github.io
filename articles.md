@@ -9,7 +9,7 @@ Repository of past Articles
 {% endcomment %}
 
 <ul class="articles-list">
-{% for articles in site.articles %}
+{% for posts in site.posts %}
   <li>
     <span class="articles-meta">{{ articles.date | date: "%b %-d, %Y" }}</span>
     <h3><a href="{{ articles.url | relative_url }}">{{ articles.title }}</a></h3>

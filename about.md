@@ -1,7 +1,7 @@
 ---
 title: / About
 layout: page
-permalink: /
+permalink: /about/
 ---
 
 {% comment %}

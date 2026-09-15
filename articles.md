@@ -6,6 +6,10 @@ permalink: /articles/
 
 {% comment %}
 Repository of past Articles
+
+for personal reference
+https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+^using this plugin for markdown articles
 {% endcomment %}
 
 <ul class="articles-list">

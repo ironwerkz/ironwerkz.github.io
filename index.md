@@ -1,6 +1,6 @@
 ---
 title: / ironwerkz Blog
-layout: home
+layout: page
 permalink: /
 ---
 
@@ -8,7 +8,7 @@ permalink: /
 the homepage will display the most current article by date
 {% endcomment %}
 
-{% assign latest = site.post.first %}
+{% assign latest = site.posts.first %}
 
 ## Latest Article
 

@@ -13,7 +13,7 @@ the homepage will display the most current article by date
 ## Latest Article
 
 ### [{{ latest.title }}]({{ latest.url | relative_url }})
-<span class="articles-meta">{{ latest.date | date: "%b %-d, %Y" }}</span>a
+<span class="articles-meta">{{ latest.date | date: "%b %-d, %Y" }}</span>
 
 
 [See all Articles →](/articles/)

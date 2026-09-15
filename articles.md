@@ -4,6 +4,10 @@ title: / Articles
 permalink: /articles/
 ---
 
+{% comment %}
+Repository of past Articles
+{% endcomment %}
+
 <ul class="articles-list">
 {% for post in site.posts %}
   <li>

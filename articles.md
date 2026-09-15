@@ -11,8 +11,8 @@ Repository of past Articles
 <ul class="articles-list">
 {% for posts in site.posts %}
   <li>
-    <span class="articles-meta">{{ articles.date | date: "%b %-d, %Y" }}</span>
-    <h3><a href="{{ articles.url | relative_url }}">{{ articles.title }}</a></h3>
+    <span class="articles-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <h3><a href="{{ posts.url | relative_url }}">{{ post.title }}</a></h3>
   </li>
 {% endfor %}
 </ul>

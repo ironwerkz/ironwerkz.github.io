@@ -6,7 +6,7 @@ categories:
 ---
 
 <figure>
-  <img src="{{ '/assets/images/drone-warfare/placeholder.png' | relative_url }}" alt="placeholder" style="max-width: 100%; Height: auto;">
+  <img src="{{ '/assets/images/drone-warfare/placeholder.jpg' | relative_url }}" alt="placeholder" style="max-width: 100%; Height: auto;">
   <figcaption>Fig 1. Typical drone flight pattern</figcaption>
 </figure>
 

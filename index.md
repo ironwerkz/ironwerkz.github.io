@@ -8,7 +8,7 @@ permalink: /
 the homepage will display the most current article by date
 {% endcomment %}
 
-{% assign latest = site.articles.first %}
+{% assign latest = site.post.first %}
 
 ## Latest Article
 

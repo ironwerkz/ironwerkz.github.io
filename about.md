@@ -1,6 +1,6 @@
 ---
-title: / About
 layout: page
+title: / About
 permalink: /about/
 ---
 
@@ -8,6 +8,6 @@ permalink: /about/
 will show contact information and who this blog is for
 {% endcomment %}
 
-## Latest Article
+## About me
 
     whoami
